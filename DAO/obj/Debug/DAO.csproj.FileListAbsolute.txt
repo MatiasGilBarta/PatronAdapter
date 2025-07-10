@@ -1,0 +1,9 @@
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\DAO\bin\Debug\DAO.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\DAO\bin\Debug\DAO.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\DAO\bin\Debug\Domain.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\DAO\bin\Debug\Domain.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\DAO\obj\Debug\DAO.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\DAO\obj\Debug\DAO.pdb

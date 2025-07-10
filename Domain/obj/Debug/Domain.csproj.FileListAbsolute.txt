@@ -1,0 +1,6 @@
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\Domain\bin\Debug\Domain.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\Domain\bin\Debug\Domain.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\Domain\obj\Debug\Domain.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\Domain\obj\Debug\Domain.pdb

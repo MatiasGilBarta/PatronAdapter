@@ -1,0 +1,14 @@
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\obj\Debug\PatronAdapter.csproj.AssemblyReference.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\obj\Debug\PatronAdapter.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\bin\Debug\PatronAdapter.exe.config
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\bin\Debug\PatronAdapter.exe
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\bin\Debug\PatronAdapter.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\bin\Debug\BLL.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\bin\Debug\Domain.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\bin\Debug\BLL.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\bin\Debug\Domain.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\obj\Debug\PatronAd.2490D465.Up2Date
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\obj\Debug\PatronAdapter.exe
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\obj\Debug\PatronAdapter.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\bin\Debug\DAO.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronAdapter\PatronAdapter\bin\Debug\DAO.pdb
